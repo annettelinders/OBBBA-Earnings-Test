@@ -1,3 +1,4 @@
 streamlit==1.37.1
 pandas
 numpy
+supabase==2.6.0
